@@ -1,0 +1,30 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [ "..." ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": 0,
+        "name": "CPU_Core1",
+        "power_density": 0.85,
+        "thermal_value": 0.95,
+        "type": "cell"
+      },
+      "type": "Feature"
+    },
+    "..."
+  ],
+  "metadata": {
+    "cell_count": 25,
+    "connection_count": 109,
+    "field": {
+      "allow_fillers": true,
+      "cols": 20,
+      "rows": 20
+    },
+    "total_connection_weight": 35.5
+  },
+  "type": "FeatureCollection"
+}
